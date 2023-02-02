@@ -1,6 +1,6 @@
 ## 4 Voice Analog Drum Synthesizer
 
-### [SCHEMATIC](X)
+### [SCHEMATIC](https://github.com/JordanAceto/quad_bass_lead_drum_generator/blob/main/docs/fundrums_schematic.pdf)
 
 ### Features:
 #### 4 independent drum voices
