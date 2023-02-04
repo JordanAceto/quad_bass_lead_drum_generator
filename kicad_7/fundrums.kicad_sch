@@ -1,4 +1,4 @@
-(kicad_sch (version 20221206) (generator eeschema)
+(kicad_sch (version 20230121) (generator eeschema)
 
   (uuid d2be4554-2d56-4e6e-a032-2e0ccded0bfe)
 
@@ -334,8 +334,8 @@
     )
   )
 
-  (bus_alias "vcf_input_bus" (members "atten_1" "atten_2" "atten_3" "atten_4" "full_1" "full_2" "full_3" "full_4" "click_1" "click_2" "click_3" "click_4" "ext_audio" "lfo_1" "lfo_2" "lfo_3" "lfo_4" ""))
   (bus_alias "vca_input_bus" (members "voice_1" "voice_2" "voice_3" "voice_4" "vcf"))
+  (bus_alias "vcf_input_bus" (members "atten_1" "atten_2" "atten_3" "atten_4" "full_1" "full_2" "full_3" "full_4" "click_1" "click_2" "click_3" "click_4" "ext_audio" "lfo_1" "lfo_2" "lfo_3" "lfo_4" ""))
   (junction (at 127 52.07) (diameter 0) (color 0 0 0 0)
     (uuid 0aa1bda7-9b6e-4a50-9399-b9648c25322d)
   )
